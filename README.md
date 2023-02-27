@@ -11,17 +11,17 @@
 
 ## The wiring
 ### Necessary equipment
-<p><img src="equipement.jpg" alt="web app" width="300" heigth="400"/></p>
+<p><img src="equipement.jpg" alt="web app" width="500" heigth="500"/></p>
 
 ### wiring
-<p><img src="wiring.jpg" alt="web app" width="300" heigth="400"/></p>
+<p><img src="wiring.jpg" alt="web app" width="700" heigth="600"/></p>
 
-<p><img src="photo.jpg" alt="web app" width="300" heigth="400"/></p>
+<p><img src="photo.jpg" alt="web app"  width="400" heigth="400"/></p>
 
 <p>Connect the pins of the DHT11 sensor and the led as shown on the diagram. <b>Be careful to connect the vcc pin to the 3.3V ** of the raspberry and not to the 5V</b></p>
 
 ## The Front end
-<p><img src="Rspi.jpg" alt="web app" width="200"/></p>
+<p><img src="Rspi.jpg" alt="web app"  width="500" heigth="500"/></p>
 
 - To connect the web application to the Raspberry, the Raspberry and the PC hosting the application must be on the same network.
 - Make sure you have node and angular CLI installed on your PC
