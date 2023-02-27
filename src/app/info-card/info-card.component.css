@@ -1,0 +1,27 @@
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid #e3e3e3;
+    border-radius: 0;
+    box-shadow: 4px 8px 9px -2px #c7c5d8;
+    -webkit-box-shadow: 4px 8px 9px -2px #c7c5d8;
+    -moz-box-shadow: 4px 8px 9px -2px #c7c5d8;
+    -ms-box-shadow: 4px 8px 9px -2px #c7c5d8;
+}
+
+.info-card {
+    font-size: 40px;
+}
+
+#admin .row .svg-inline--fa {
+    color: rgb(74, 74, 46);
+}
+
+table .row .svg-inline--fa {
+    color: rgb(255, 255, 255);
+}
